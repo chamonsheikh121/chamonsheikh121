@@ -1,7 +1,10 @@
-# chamonsheikh121
-<!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Ali (aka Team Webio 🚀)</h1>
-<h3 align="center">A Passionate Front-End & MERN Stack Developer from Bangladesh 🌍</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/ZYhLQmJ/github-banner.png" alt="banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Chamon Ali</h1>
+<h3 align="center">A Passionate Front-End & MERN Stack Developer and Web Consultant from Bangladesh 🌍</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chamonsheikh121&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
@@ -11,12 +14,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **MERN stack projects & Shopify custom development**
-- 🌱 Learning **Next.js, TypeScript & Advanced React**
-- 👯 Open to collaborate on **Open Source & Freelance Projects**
-- 💼 Founder of **Team Webio**
-- 📫 Reach me at: **chamonsheikh121@gmail.com**
-- ⚡ Fun fact: *I love building websites that solve real-world problems ✨*
+- 🔭 Currently working on **MERN stack projects & Shopify custom development**  
+- 🌱 Learning **Next.js, TypeScript & Advanced React**  
+- 👯 Open to collaborate on **Open Source & Freelance Projects**  
+- 💼 Founder of **Team Webio**  
+- 📧 Email: **chamonali11@gmail.com**  
+- 📱 Phone: **+8801304100074**  
+- ⚡ Fun fact: *I love building websites that solve real-world problems ✨*  
 
 ---
 
@@ -24,8 +28,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chamonsheikh121/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://github.com/chamonsheikh121" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="40" width="40" /></a>
-<a href="mailto:chamonsheikh121@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="40" width="40" /></a>
-<a href="https://www.fiverr.com/your_fiverr_username" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732228.png" alt="fiverr" height="40" width="40" /></a>
+<a href="mailto:chamonali11@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="40" width="40" /></a>
+<a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732228.png" alt="fiverr" height="40" width="40" /></a>
 </p>
 
 ---
@@ -54,6 +58,13 @@
 
 ---
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamonsheikh121&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ### 🌟 Featured Projects
 - 🚀 [MERN Expense Tracker](https://github.com/chamonsheikh121/expense-tracker)  
 - 🛒 [Shopify Custom Store](https://github.com/chamonsheikh121/shopify-custom)  
@@ -68,6 +79,10 @@
   <img src="https://img.shields.io/badge/Freelancer-%F0%9F%92%B0-orange" />
   <img src="https://img.shields.io/badge/Team%20Player-%F0%9F%91%8C-yellow" />
 </p>
+
+---
+
+> 💡 *"Code is not just code, it's the art of solving problems."*
 
 ---
 
