@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./computer-8070002_1280.jpg" alt="banner" />
+  <img src="./bangladesh-3539906_1280.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Chamon Ali</h1>
