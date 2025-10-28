@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/ZYhLQmJ/github-banner.png" alt="banner" />
+  <img src="./patriot-1019844_1280.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Chamon Ali</h1>
@@ -14,10 +14,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **MERN stack projects & Shopify custom development**  
-- 🌱 Learning **Next.js, TypeScript & Advanced React**  
+- 🔭 Currently working on **MERN stack custom development**  
+- 🌱 Learning **Next.js, TypeScript & Docker**  
 - 👯 Open to collaborate on **Open Source & Freelance Projects**  
-- 💼 Founder of **Team Webio**  
 - 📧 Email: **chamonali11@gmail.com**  
 - 📱 Phone: **+8801304100074**  
 - ⚡ Fun fact: *I love building websites that solve real-world problems ✨*  
@@ -29,7 +28,7 @@
 <a href="https://www.linkedin.com/in/chamonsheikh121/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://github.com/chamonsheikh121" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="40" width="40" /></a>
 <a href="mailto:chamonali11@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="40" width="40" /></a>
-<a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732228.png" alt="fiverr" height="40" width="40" /></a>
+<a href="https://www.fiverr.com/chamonsheikh" target="blank"><img align="center" src="./download (1).png" alt="fiverr" height="40" width="40" /></a>
 </p>
 
 ---
@@ -53,7 +52,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chamonsheikh121&show_icons=true&theme=radical" alt="github-stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamonsheikh121&theme=radical" alt="streak-stats" height="180"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamonsheikh121&theme=radical" alt="GitHub Streak Stats" height="180"/>
+
 </p>
 
 ---
@@ -66,9 +66,12 @@
 ---
 
 ### 🌟 Featured Projects
-- 🚀 [MERN Expense Tracker](https://github.com/chamonsheikh121/expense-tracker)  
-- 🛒 [Shopify Custom Store](https://github.com/chamonsheikh121/shopify-custom)  
-- 📚 [Library Management App](https://github.com/chamonsheikh121/library-app)  
+- 🚀 [Skill Sphere](https://github.com/chamonsheikh121/SKILL_SPHERE_SERVER)  
+- 🛒 [University Server](https://github.com/chamonsheikh121/UNIVERSITY-SERVER)  
+- 📚 [Kitchen exhaust system](https://github.com/chamonsheikh121/kitchen-exhaust-client)  
+- 📚 [Restaurant management](https://github.com/chamonsheikh121/Restaurant-management)  
+- 📚 [Blood donation](https://github.com/chamonsheikh121/Blood_Donation_Client)  
+- 📚 [tradesPeople](https://github.com/chamonsheikh121/trades_people)  
 
 ---
 
