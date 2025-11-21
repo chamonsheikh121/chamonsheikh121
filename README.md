@@ -28,7 +28,6 @@
 <a href="https://www.linkedin.com/in/chamonsheikh121/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://github.com/chamonsheikh121" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="40" width="40" /></a>
 <a href="mailto:chamonali11@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="40" width="40" /></a>
-<a href="https://www.fiverr.com/chamonsheikh" target="blank"><img align="center" src="./download (1).png" alt="fiverr" height="40" width="40" /></a>
 </p>
 
 ---
